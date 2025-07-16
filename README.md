@@ -48,8 +48,8 @@ pip install tensorflow opencv-python matplotlib seaborn pandas numpy scikit-lear
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/skkuhg/brain-mri-tumor-detection.git](https://github.com/skkuhg/Brain-MRI-Tumor-Detection.git
-   cd brain-mri-tumor-detection
+   git clone https://github.com/skkuhg/Brain-MRI-Tumor-Detection.git
+   cd Brain-MRI-Tumor-Detection
    ```
 
 2. **Prepare your dataset**:
